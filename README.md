@@ -9,6 +9,7 @@ A simple decoupled weather application.
 The app fetches weather data from the [OpenWeatherMap API](https://openweathermap.org/api).
 
 **Features 🚀**
+
 -View current weather information.
 
 -Fast, clean, and user-friendly interface.
